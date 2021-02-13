@@ -36,7 +36,8 @@
         {
             "src": "appicon/icon_192x192.jpg",
             "sizes": "192x192",
-            "type": "image/jpg"
+            "type": "image/jpg",
+            "purpose": "maskable"
         },
         {
             "src": "appicon/icon_256x256.jpg",
