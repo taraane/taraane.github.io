@@ -3,7 +3,7 @@
     "background_color": "#fff",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://www.youtube.com/watch?v=dU7GwCOgvNY",
+    "start_url": "/",
     "app_name": "Taraane",
     "short_name": "Taraane",
     "description": "Listen to a playlist of 25 old hindi songs, daily. Discover forgotten old hindi songs from the golden era",
